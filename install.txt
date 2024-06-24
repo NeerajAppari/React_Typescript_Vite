@@ -1,0 +1,11 @@
+npm create vite@4.1.0
+
+react-app
+
+select react then typescript
+
+cd react-app
+npm i(install)
+code .vs
+
+npm run dev
